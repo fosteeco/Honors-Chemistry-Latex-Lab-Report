@@ -1,0 +1,39 @@
+%Pick your document class 
+\documentclass{report}
+%Insert necessary packages 
+%This package will change the margins to .5in. If you want something different then change it
+\usepackage[margin=0.5in]{geometry}
+%This package is for citing your sources 
+\usepackage[backend=biber]{biblatex} 
+%This package will allow you to jump to your sources 
+\usepackage{hyperref} 
+%This line points to the location of the file where you cite your sources 
+\addbibresource{my.bib}
+%Begin document
+\begin{document} 
+%Choose formatting 
+
+\hfill Submitted by: Christian Foster 
+
+\hfill Lab partners: Pat, Mike, and Jules 
+
+\hfill Data Collected: 28 February 2017 
+
+\hfill Report Submitted: 25 April 2017
+
+%Format for title of paper 
+\begin{center}
+\fontsize{18pt}{12pt}\selectfont 
+\LaTeX (Lab Report Tutorial) A descriptive title that says exactly what you did and what you found
+\end{center}
+%Start Abstract Section flushleft will put text to the left dur. 
+\begin{flushleft}
+\textbf{Abstract:} Short version of concluding paragraph, include major discoveries, keep it short and state method.
+\end{flushleft}
+%Introduction Section
+\begin{flushleft}
+	\textbf{Introduction:} This section is background. It explores the ideas behind your experiment. Start with a topic sentence that states the purpose of the lab. Define any terms in this section The format is up to your teacher and citations must footnote citations. In \LaTeX this is very easy. It just takes a bit of learning. In this example we will be using biblatex with biber. First you must find a source for citation. In our case we will use Mr.Madara's example lab report. He cites a source that says ``Tacos require meat and cheese at all times''. To do this we will make a .bibfile. Now a source was made in my.bib called taco. To cite this source as a footnote use supercite. This example can be found on Mr.Madara's website:\supercite{madara}
+	There is a skill needed to make tacos. ``Tacos require meat and cheese at all times''
+\end{flushleft}
+\printbibliography
+\end{document}

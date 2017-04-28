@@ -1,0 +1,11 @@
+
+escribe j ir a la bajar 
+usa h ir a la izquierda 
+apreta k ir a la arriba 
+empuja l ir a la derecho 
+
+:w escriba a la archivo 
+:q sale el archivo 
+:wq escriba y sale la archivo 
+
+estos básico control de vim 

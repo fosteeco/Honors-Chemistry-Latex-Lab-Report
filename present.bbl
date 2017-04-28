@@ -1,0 +1,54 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{madara}{online}{}
+      \name{author}{1}{}{%
+        {{hash=16c4bec192f70ba082fb18c72ae06de9}{%
+           family={Madara},
+           familyi={M\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{16c4bec192f70ba082fb18c72ae06de9}
+      \strng{fullhash}{16c4bec192f70ba082fb18c72ae06de9}
+      \strng{authornamehash}{16c4bec192f70ba082fb18c72ae06de9}
+      \strng{authorfullhash}{16c4bec192f70ba082fb18c72ae06de9}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{11}
+      \field{title}{Lab Report Template}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2017}
+      \field{year}{2034}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.bcths.com/Page/1488
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
