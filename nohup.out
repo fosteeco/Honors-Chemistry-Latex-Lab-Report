@@ -1,0 +1,40 @@
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: Negative content width -23 (allocation 1, extents 12x12) while allocating gadget (node label, owner GtkLabel)
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: Negative content width -23 (allocation 1, extents 12x12) while allocating gadget (node label, owner GtkLabel)
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: Negative content width -23 (allocation 1, extents 12x12) while allocating gadget (node label, owner GtkLabel)
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: Negative content width -23 (allocation 1, extents 12x12) while allocating gadget (node label, owner GtkLabel)
+
+(evince:6896): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -26 and height 20
+
+(evince:6896): Gtk-WARNING **: Negative content width -23 (allocation 1, extents 12x12) while allocating gadget (node label, owner GtkLabel)

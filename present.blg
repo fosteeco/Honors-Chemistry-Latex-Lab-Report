@@ -1,15 +1,15 @@
-[1] Config.pm:354> INFO - This is Biber 2.7
-[2] Config.pm:357> INFO - Logfile is 'present.blg'
-[99] biber:303> INFO - === Mon May  1, 2017, 08:33:49
-[126] Biber.pm:359> INFO - Reading 'present.bcf'
-[276] Biber.pm:835> INFO - Found 3 citekeys in bib section 0
-[302] Biber.pm:3670> INFO - Processing section 0
-[328] Biber.pm:3840> INFO - Looking for bibtex format file 'my.bib' for section 0
-[330] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[337] bibtex.pm:1292> INFO - Found BibTeX data source 'my.bib'
-[377] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[377] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[377] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
-[377] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[383] bbl.pm:608> INFO - Writing 'present.bbl' with encoding 'ascii'
-[384] bbl.pm:712> INFO - Output to present.bbl
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'present.blg'
+[101] biber:303> INFO - === Tue May  2, 2017, 15:26:28
+[131] Biber.pm:359> INFO - Reading 'present.bcf'
+[282] Biber.pm:835> INFO - Found 3 citekeys in bib section 0
+[309] Biber.pm:3670> INFO - Processing section 0
+[337] Biber.pm:3840> INFO - Looking for bibtex format file 'my.bib' for section 0
+[338] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[345] bibtex.pm:1292> INFO - Found BibTeX data source 'my.bib'
+[382] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[382] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[382] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[382] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[388] bbl.pm:608> INFO - Writing 'present.bbl' with encoding 'ascii'
+[390] bbl.pm:712> INFO - Output to present.bbl
