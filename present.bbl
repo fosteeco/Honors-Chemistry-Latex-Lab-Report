@@ -19,6 +19,49 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global/}
+    \entry{taco}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3e65359e3703d4a84ddcf8c19c50d390}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York, NY: Publishing}%
+      }
+      \strng{namehash}{3e65359e3703d4a84ddcf8c19c50d390}
+      \strng{fullhash}{3e65359e3703d4a84ddcf8c19c50d390}
+      \strng{authornamehash}{3e65359e3703d4a84ddcf8c19c50d390}
+      \strng{authorfullhash}{3e65359e3703d4a84ddcf8c19c50d390}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to make a Taco in Under Fifty Seconds Using One Hand.}
+      \field{year}{1955}
+    \endentry
+    \entry{libreoffice}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9d17479c086448bf5d6c7173a03008f3}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={The\bibnamedelima Document},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d17479c086448bf5d6c7173a03008f3}
+      \strng{fullhash}{9d17479c086448bf5d6c7173a03008f3}
+      \strng{authornamehash}{9d17479c086448bf5d6c7173a03008f3}
+      \strng{authorfullhash}{9d17479c086448bf5d6c7173a03008f3}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Computer Software. LibreOffice. Version 5.3.2.2}
+      \field{title}{LibreOffice Calc}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
     \entry{madara}{online}{}
       \name{author}{1}{}{%
         {{hash=16c4bec192f70ba082fb18c72ae06de9}{%
